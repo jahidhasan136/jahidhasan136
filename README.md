@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jahid Hasan</h1>
 <h3 align="center">A Passionate Web Developer From Bangladesh</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahidhasan136&label=Profile%20views&color=0e75b6&style=flat" alt="jahidhasan136" /> </p>
 
